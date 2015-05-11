@@ -5,6 +5,8 @@ Agreements are formal decisions we have passed via Loomio defining how we want t
 ## Enspiral Dev Academy
 These are agreements that govern the operations of EDA
 
+* [**Mission**](./mission.md) - the purpose that guides every decision in the business.
+
 
 ### Inherited from Enspiral
 
