@@ -71,4 +71,4 @@ Through having a gift economy each person in the EDA community will be empowered
 6. Mucking in on worker bees.
 
 ###Notes on Desks
-Desk space is a finite resource at EDA, as such when supply runs short EDA will facilitate sharing of the Alumni desk space through a booking system. Priority 
+Desk space is a finite resource at EDA, as such when supply runs short EDA will facilitate sharing of the Alumni desk space through a booking system. Priority will be given to the most recent graduating students as they work through careers week and start looking for work.
