@@ -11,7 +11,7 @@ A critical part of Enspiral Dev Academy is the community developing around it. T
 3. Socially - through activities and events.
 4. Common Experience - those who attend the academy (staff or student)
 
-Trying to define a community can be seen as a logically reductive process, this poses several challenges including the cogitative model being very brittle to change. This agreement follows an additive approach, instead of defining all the possible interactions the community can have through EDA. It defines a base sentiment and suggests some possible interactions. This empowers the community to self organise and develop interactions as needed.
+Trying to define a community can be seen as a logically reductive process, this poses several challenges including the cognitive model being very brittle to change. This agreement follows an additive approach, instead of defining all the possible interactions the community can have through EDA. It defines a base sentiment and suggests some possible interactions. This empowers the community to self organise and develop interactions as needed.
 
 ##The Parties
 Outlining the participants of the community, their potential needs, assets and responsibilities.
