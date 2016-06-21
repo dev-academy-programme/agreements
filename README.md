@@ -11,7 +11,7 @@ These are agreements that govern the operations of EDA
 ### Inherited from Enspiral
 
 * [**Diversity Policy**](https://github.com/enspiral/agreements/tree/master/agreements/diversity.md) - we are committed to developing and fostering a culture of diversity within an equitable workplace where all people are respected and valued.
-* [**Enspiral Agreements**](https://github.com/enspiral/agreements/tree/master/agreements/agreements.md) - the meta document which defines how agreements are made.
+* [**Enspiral Agreements**](https://enspiral.gitbooks.io/enspiral-handbook/content/agreements.html) - the meta document which defines how agreements are made.
 
 
 
