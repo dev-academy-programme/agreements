@@ -1,5 +1,8 @@
 Agreements
 ==========
+
+> This repo is deprecated because we now maintain our agreements in our Google Drive.
+
 Agreements are formal decisions we have passed via Loomio defining how we want to work together, they are the binding agreements at the heart of Enspiral Dev Academy.
 
 ## Enspiral Dev Academy
